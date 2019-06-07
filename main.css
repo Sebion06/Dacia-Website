@@ -1,0 +1,263 @@
+.container {
+      padding: 80px 120px;
+  }
+.navbar 
+{
+    font-family: Times new roman,courier,Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #fff3e6; 
+	border: 1;
+    border-color:#29292c;
+	font-size: 18px;
+	letter-spacing: 2px;
+    opacity: 0.9;
+    
+}
+.navbar-fixed-top{
+	min-height: 40px;
+}
+.navbar-nav li a: hover
+{
+	color: #fff !important;
+}
+
+.dropdown-menu li:hover .sub-menu {
+    visibility: visible;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.navbar-default .navbar-nav>.active>a {
+  color: #fff !important;
+  background: #29292c !important;
+}
+
+.dropdown-menu > li > a:hover {
+	background-color:#29292c;
+	color:#ffffff;
+}
+
+.jumbotron 
+{
+	background: url('Sarmisegetusa_1.jpg');
+	display: flex;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  height: 100vh;  /*692*/
+
+}
+.jumbotron h1
+{
+	font-size: 70px;
+  font-weight: 575;
+  font-family:Algerian;
+  margin: 1;
+  color: #fff;
+  opacity: 1;
+}
+.jumbotron h2
+{
+	font-size: 50px;
+  font-weight: 400;
+  margin: 1;
+  color: #fff;
+  opacity: 1;
+}
+.Introducere {
+	padding:30px;
+	font-size: 1.1em;
+	line-height: 31px;
+	text-align: justify;
+	text-indent: 2em;
+}
+.Introducere2 {
+	
+	font-size: 17px;
+	line-height: 32px;
+	text-align: justify;
+	text-indent: 2em;
+}
+.linkpoze {
+    display: inline-block;
+    border: 2px solid #808000;
+    border-radius: 5px;
+    padding: 5px;
+    transition: 0.3s;
+}
+.linkpoze2 {
+    display: inline-block;
+    border: 2px solid #29292c;
+    border-radius: 5px;
+    padding: 5px;
+    transition: 0.3s;
+}
+.linkpoze a:hover{
+	box-shadow: 0 0 2px 1px (0, 140, 186, 0.5);
+}
+.linkpoze2 a:hover{
+    box-shadow: 0 0 2px 1px (0, 140, 186, 0.5);
+}
+h1{
+	padding-bottom: 30px;
+}
+.row{
+	padding-bottom: 25px;
+}
+#h2{
+    padding-left: 75px;
+    padding-bottom: 20px;
+}
+p{
+  	font-size: 1vw; 
+  	line-height: 30px;
+    font-family: Times;
+   
+ }
+.p_row
+{
+  font-size: 18px; 
+  text-indent: 2em; 
+  
+}
+#row_main{
+	padding-bottom: 60px;
+
+}
+hr{
+	color:#29292c;
+}
+
+footer {
+    background-color: #2d2d30;
+    color: #f5f5f5;
+    padding: 32px;
+}
+
+footer a {
+    color: #f5f5f5;
+ }
+
+footer a:hover {      
+	color: #777;
+    text-decoration: none;
+} 
+
+
+
+
+
+
+.image img {
+    transition: all .2s ease-in-out; 
+}
+
+.image:hover img {
+    transform: scale(1.05);
+}
+.image2 img {
+    transition: all .3s ease-in-out; 
+}
+
+.image2:hover img {
+    transform: scale(1.15);
+}
+
+#menu {
+    max-width: 1500px;
+    text-align: center;
+    margin: auto;
+}
+
+#picborder_right {
+	border-top: 3px solid #29292c; 
+	border-bottom: 3px solid #29292c; 
+	border-left: 3px solid #29292c;
+}
+
+#picborder_left {
+	border-top: 3px solid #29292c; 
+	border-bottom: 3px solid #29292c; 
+	border-right: 3px solid #29292c;
+}
+
+.answers li {
+list-style: upper-alpha;
+}
+
+label {
+margin-left: 0.5em;
+cursor: pointer;
+}
+
+#results {
+background: #dddada;
+color: 000000;
+padding: 3px;
+text-align: center;
+width: 200px;
+cursor: pointer;
+border: 1px solid gray;
+}
+
+#results:hover {
+background: #29292c;
+color: #ffffff;
+padding: 3px;
+text-align: center;
+width: 200px;
+cursor: pointer;
+border: 1px solid gray;
+}
+
+#categorylist {
+margin-top: 6px;
+display: none;
+}
+
+#category1, #category2, #category3, #category4, #category5, #category6, #category7, #category8, #category9, #category10, #category11, #category12, #category13, #category14, #category15, #category16, #category17{
+display: none;
+}
+
+#closing {
+display: none;
+font-style: italic;
+} 
+#btn-poza{
+  color:#ffffff;
+  background-color: #29292c; 
+  font-size: 20px;
+
+}
+#btn-poza:hover{
+box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.columna{
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
