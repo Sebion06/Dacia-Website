@@ -252,91 +252,25 @@
 	"buffers":
 	[
 		{
-			"file": "@dacia.html",
+			"contents": "<!DOCTYPE html>\n<html>\n\n<head>\n\n<title>Dacia</title>\n<meta charset=\"utf-8\">\n\n<link href=\"css/bootstrap.min.css\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\"/>\n<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js\"> </script>\n<script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\"></script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"main.css\">\n\n\n</head>\n\n<body style=\"background-color:#fff3e6\">\n\n<script src=\"js/bootstrap.min.js\"></script>\n\n\n<!-- Navbar section -->\n<nav class=\"navbar navbar-default navbar-fixed-top\" >\n\t<div class=\"container-fluid\">\n\t  <div class=\"navbar-header\">\n\t \t<a class=\"navbar-brand\" href=\"index.html\">Dacia</a>\n\t  </div>\n\t  <div class=\"pull-right\">\n\t\t<ul class=\"nav navbar-nav\" >\n\t\t\t<li class=\"active\"><a href=\"@dacia.html\">Regatul Daciei</a></li>\n\t\t\t<li class=\"dropdown\">\n\t\t\t\t<a class=\"dropdown-toggle \" data-toggle=\"dropdown\" href=\"#\">Războaiele Daco-Romane\n\t\t\t\t<span class=\"caret\"></span></a>\n\t\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t\t<li><a href=\"@Domitian.html\">cu Împăratul Domițian</a></li>\n\t\t\t\t\t\t<li><a href=\"@Traian.html\">cu Împăratul Traian</a></li>\n\t\t\t\t\t</ul>\t\t\n\t\t\t</li>\n\t\t\t<li class=\"dropdown\">\n\t\t\t\t<a class=\"dropdown-toggle \" data-toggle=\"dropdown\" href=\"#\">Monumente\n\t\t\t\t<span class=\"caret\"></span></a>\n\t\t\t\t<ul class=\"dropdown-menu\">\n\t\t\t\t\t<li><a href=\"@columna.html\">Columna lui Traian</a></li>\n\t\t\t\t\t<li><a href=\"@tropaeum.html\">Tropaeum Traiani</a></li>\n\t\t\t\t</ul>\t\n\t\t\t</li>\n\t\t\t<li><a href=\"@provincie.html\">Dacia - Provincie romană</a></li>\n\t\t\t<li><a href=\"@quiz.html\">Test</a></li>\n\t\t</ul>\n\t  </div>\n\t</div>\n</nav>\n\n<!-- Jumbotron section -->\n<section class=\"jumbotron\" style=\"background-attachment: fixed;\n    background-position: center;\n    background-repeat: no-repeat;\n    background-size: cover;\">\n<div class=\"container\">\n\t<div class=\"row text-center\">\n\t\t<div class=\"col-md-12\">\n\t\t<h1>Regatul Daciei</h1>\n\t\t</div>\n\t</div>\n</div>\n</section>\n\n<!-- Introduction -->\n<div class=\"container text-center\">\n\t<h1 style=\"font-family: Algerian;\">Dacii</h1>\n\t<div class=\"row\" style=\"padding-bottom: 40px;\">\n\t\t<div class=\"col-md-6\">\n\t\t\t<p class=\"Introducere p_row\">Apariția proprietății private a determinat diferențierea socială după avere, care a condus la stratificarea societății dacice și la apariția claselor sociale: tarabostes (pileati) și comati. Primii reprezentau aristocrația militară și sacerdotală, iar ceilalți producătorii liberi, marea masă a populației (agricultori, meșteșugari).Stratificarea socială a fost însoțită de apariția primelor triburi și uniuni de triburi, conduse de șefi militari. Fiecare trib stăpânea un teritoriu cu o așezare mare, fortificată numită \"dava\", având rol de centru administrativ.Dovezile arheologice, precum și izvoarele narative, atestă existența unor puternice uniuni de triburi conduse de \"basilei\" (regi).\n\t\t\t</p> \n\t\t</div>\n\t\t<div class=\"col-md-6\">\n\t\t<a class=\"linkpoze\" href=\"R.Oltean-2-864x1024.jpg\">\n\t\t <img src=\"R.Oltean-2-864x1024.jpg\" class=\"img-rounded\" height=\"512\" alt=\"\" width=\"400\"></a>\n\t\t </div>\n\t </div>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t<a class=\"linkpoze\" href=\"2294f02395bd19bde52e73546515ab09.jpg\">\n\t\t\t<img src=\"2294f02395bd19bde52e73546515ab09.jpg\" class=\"img-rounded\" height=\"500\" width=\"800\"></a>\n\t\t</div>\n\t</div>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<p class=\"Introducere p_row\"  style=\"text-align: left; text-indent: 2em;\">Astfel, în sec. al IV-lea î. Hr. este atestată uniunea de triburi condusă de \"rex Histrianorum\", care se opune sciților. Mai târziu, Alexandru Macedon înfrânge o uniune de triburi din nordul Dunării la 335 î. Hr. Între 300 î. Hr. și 292 î. Hr. se desfășoară confruntările dintre uniunea de triburi din centrul Munteniei condusă de <b>Dromichaetes</b>, cu reședința la Helis, și aceea condusă de Lisimach, care este luat prizonier. Tot în sec. III î. Hr. este menționată, intr-o inscripție de la Histria o uniune de triburi din sudul Moldovei condusă de <b>Zalmodegikos</b>. \n\t\t\t</p>\n\t\t</div>\n\t</div>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<a class=\"linkpoze\" href=\"Ritual.jpg\">\n\t\t\t\t<img src=\"Ritual.jpg\" alt=\"ritual\" class=\"img-rounded\">\n\t\t\t</a>\n\t\t</div>\n\t</div>\n</div>\n\n\n<!-- Regatul lui Burebista -->\n<div class=\"container text-center\" style=\"padding-top: 0px;\">\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<h1 style=\"padding-bottom: 0px; font-family: Algerian;\">Regatul lui Burebista</h1>\n\t\t</div>\n\t</div>\n\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<p class=\"Introducere p_row\" >     În sec. I î. Hr., societatea geto-dacă trece printr-un proces amplu de modernizare, care a condus la apariția statului dac centralizat, care era o monarhie militară. Primul rege dac a fost <b>Burebista (82-44 î. Hr.)</b>. Acesta a unit triburile geto-dace, prin diplomație și lupte, cu ajutorul lui <b>Deceneu</b> (preot) și a creat un stat puternic, cu centrul la Sarmizegetusa Regia, în Munții Orăștie. Sub Burebista, statul dac a atins cea mai mare întindere, limitele sale situându-se,potrivit lui Strabon, la N, în Carpații Păduroși,la V, la Dunărea Mijlocie și actuala Slovacie, la S în Munții Haemus (Balcani) iar la E la gurile Bugului și la Marea Neagră. În anul 48 î. Hr. întreprinde o campanie la sudul Dunării, în Pen. Balcanică. Asigurându-și granițele, Burebista s-a implicat în războiul civil dintre Caesar și Pompei, ajutându-l pe Pompei. Caesar, învingător, a organizat o expediție de pedepsire a lui Burebista, care însă a fost întreruptă prin moartea lui Caesar în 44 î. Hr., urmată la scurt timp de moartea lui Burebista.</p>\n\t\t</div>\n\t</div>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-6\">\n\t\t\t<a href=\"oXcyvrR.jpg\" class=\"linkpoze\">\n\t\t\t\t<img src=\"oXcyvrR.jpg\" width=\"436\" height=\"286\">\n\t\t\t</a>\n\t\t</div>\n\n\t\t<div class=\"col-md-6\">\n\t\t\t<a href=\"IMAG1757(1).jpg\" class=\"linkpoze\">\n\t\t\t\t<img src=\"IMAG1757(1).jpg\" width=\"436\" height=\"286\">\n\t\t\t</a>\n\t\t</div>\n\t</div>\n</div>\n\n\n\n<!--Dacia între Burebista și Decebal -->\n<div class=\"container text-center\" style=\"padding-top: 0px;\">\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<h1 style=\"padding-bottom: 0px; font-family: Algerian;\">Dacia între Burebista si Decebal</h1>\n\t\t</div>\n\t</div>\n\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<p class=\"Introducere p_row\" > O dată cu moartea lui Burebista, statul dac, slab centralizat, s-a dezmembrat rapid în patru, apoi cinci, organizări politice. În inima statului lui Burebista, în zona <b>Munților Orăștie</b>, <b>Deceneu</b>, mare preot în timpul lui Burebista, a preluat puterea. El a fost succedat de <b>Comosicus</b>, de <b>Scorilo</b>, si apoi de <b>Diurpaneus</b>. Acesta a făcut o incursiune în provincia Moesia în iarna 85-86 d. Hr., împotriva romanilor, care îl înfrâng. În celelalte provincii, sunt atestați <b>Coson</b>, rege în nordul Munteniei, amestecat în războiul civil roman din perioada lui Octavian Augustus; <b>Cotiso</b>, rege în Banat, care face incursiuni la sudul Dunării; <b>Dicomes</b>, rege în centrul și sudul Moldovei, care susține pe Marc Antoniu în lupta de la Actium; și <b>Roles</b>, rege în Dobrogea, care se aliază cu romanii împotriva lui <b>Dapix</b> și <b>Zyraxes</b>, în iarna 28-29 d. Hr.</p>\n\t\t</div>\n\t</div>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-6\">\n\t\t\t<a href=\"cuptor_dacic.jpg\" class=\"linkpoze\">\n\t\t\t\t<img src=\"cuptor_dacic.jpg\" width=\"436\" height=\"341\">\n\t\t\t</a>\n\t\t</div>\n\n\t\t<div class=\"col-md-6\">\n\t\t\t<a href=\"fierarie.jpg\" class=\"linkpoze\">\n\t\t\t\t<img src=\"fierarie.jpg\" width=\"436\" height=\"341\">\n\t\t\t</a>\n\t\t</div>\n\t</div>\n</div>\n\n\n\n\n\n\n\n\n\n<!-- Regatul lui Decebal -->\n<div class=\"container text-center\" style=\"padding-top: 0px;\">\n\t\t<h1 style=\"padding-bottom: 20px; font-family: Algerian;\">Regatul lui Decebal</h1>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<p class=\"Introducere p_row\"  style=\"text-align: left; text-indent: 2em;\">Decebal  (87 – 106 d. Hr.) reface unitatea statului dac, pe un teritoriu mai mic decât statul lui Burebista, însă mai centralizat și mai puternic. \n\t\t\tDacia s-a aflat la apogeul puterii sale sub regele Decebal, cuprinzând Transilvania, Banatul, Oltenia, centrul și sudul Moldovei, noul stat era mai puternic și mai bine organizat. Progresele înregistrate în acest timp de societatea dacică erau multiple și importante: o populație numeroasă și grupată în jurul multor dave în care pulsa o vie activitate economică, legături comerciale cu lumea greco-romană, o cultură înfloritoare cu puternice elemente originale.\n\t\t\t</p>\n\t\t</div>\n\t</div>\n\t<div class=\"row\">\n\t\t<div class=\"col-md-6\">\n\t\t\t<a class=\"linkpoze\" href=\"4c024332404d1010fc90929e1e6285f6.jpg\">\n\t\t \t<img src=\"4c024332404d1010fc90929e1e6285f6.jpg\" class=\"img-rounded\" height=\"512\" alt=\"\" width=\"900\"></a>\n\t\t</div>\n\t</div>\n</div>\n\n<div class=\"container text-center\" style=\"padding-top: 40px;\">\n\n\t<div class=\"row\" style=\"padding-bottom: 20px;\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<p  style=\"font-size: 25px; \">Istoricul roman Dio Cassius a făcut regelui dac următorul portret elogios:</p>\n\t\t</div>\n\t</div>\n\n\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t\t<p style=\"font-family: Garamond; font-size: 25px;\"><cite>„Era foarte priceput în ale războiului și iscusit la faptă, știind să aleagă prilejul pentru a-l ataca pe dușman și a se retrage la timp. Abil în a întinde curse, era viteaz în luptă, știind a se folosi cu dibăcie de o victorie și a scăpa cu bine dintr-o înfrângere, pentru care lucru el a fost mult timp un potrivnic de temut al romanilor.”</cite></p>\n\t\t</div>\t\n\t</div>\n\n\t<div class=\"row\">\n\t\t<div class=\"col-md-12\">\n\t\t \t<figure>\n\t\t \t\t<a href=\"decebal-pe-columna.jpg\">\n\t\t \t\t<img src=\"decebal-pe-columna.jpg\" style=\"padding-bottom:10px;\" class=\"img-circle\" height=\"460\" alt=\"\" width=\"450\">\n\t\t \t\t</a>\n\t\t \t\t<figcaption style=\"font-size: 20px;\"><i>Decebal</i></figcaption>\n\t\t \t</figure>\n\t\t</div>\n\t</div>\n</div>\n\n\n<div class=\"container-fluid\">\n\t<div class=\"row\" style=\"padding-bottom: 100px\">\n\t\t<div class=\"col-md-3  \" style=\"width: 25%; padding: 0px;\">\n\t\t\t<img src=\"Solar_disc.jpg\" class=\"img-responsive\">\n\t\t</div>\n\t\t<div class=\"col-md-3 \" style=\"width: 25%; padding: 0px;\">\n\t\t\t<img src=\"sarmizegetusa_regia.jpg\" class=\"img-responsive\">\n\t\t</div>\n\t\t<div class=\"col-md-3 \" style=\"width: 25%; padding: 0px;\">\n\t\t\t<img src=\"Paved_Dacian_road.jpg\" class=\"img-responsive\">\n\t\t</div>\n\t\t<div class=\"col-md-3 \" style=\"width: 25%; padding: 0px;\">\n\t\t\t<img src=\"800px-Sanctuarele_de_andezit.jpg\" class=\"img-responsive\">\n\t\t</div>\n\t</div>\n</div>\n\n\n\n\n\n\n\n<!-- Footer section -->\n\n<footer class=\"text-center\">\n  <p>&copy; Moticica Sebastian <script>document.write(new Date().getFullYear())</script></p> \n  <a href=\"@Bibliografie.html\" class=\"btn btn-default button\" style=\"color:#2d2d30; \"><span>Bibliografie</span></a>\n</footer>\n\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 10983,
+			"file_write_time": 131318889100000000,
 			"settings":
 			{
-				"buffer_size": 10700,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "@Traian.html",
-			"settings":
-			{
-				"buffer_size": 15465,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "@Bibliografie.html",
-			"settings":
-			{
-				"buffer_size": 4048,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "@provincie.html",
-			"settings":
-			{
-				"buffer_size": 21810,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "@columna.html",
-			"settings":
-			{
-				"buffer_size": 9133,
-				"encoding": "UTF-8 with BOM",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "@quiz.html",
-			"settings":
-			{
-				"buffer_size": 15137,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "quiz_js.js",
-			"settings":
-			{
-				"buffer_size": 4721,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "main.css",
-			"settings":
-			{
-				"buffer_size": 3978,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/bootstrap.css",
-			"settings":
-			{
-				"buffer_size": 146010,
+				"buffer_size": 10757,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "@tropaeum.html",
+			"contents": ".container {\n      padding: 80px 120px;\n  }\n.navbar \n{\n    font-family: Times new roman,courier,Montserrat, sans-serif;\n    margin-bottom: 0;\n    background-color: #fff3e6; \n\tborder: 1;\n    border-color:#29292c;\n\tfont-size: 18px;\n\tletter-spacing: 2px;\n    opacity: 0.9;\n    \n}\n.navbar-fixed-top{\n\tmin-height: 40px;\n}\n.navbar-nav li a: hover\n{\n\tcolor: #fff !important;\n}\n\n.dropdown-menu li:hover .sub-menu {\n    visibility: visible;\n}\n\n.dropdown:hover .dropdown-menu {\n    display: block;\n}\n.navbar-default .navbar-nav>.active>a {\n  color: #fff !important;\n  background: #29292c !important;\n}\n\n.dropdown-menu > li > a:hover {\n\tbackground-color:#29292c;\n\tcolor:#ffffff;\n}\n\n.jumbotron \n{\n\tbackground: url('Sarmisegetusa_1.jpg');\n\tdisplay: flex;\n  align-items: center;\n  text-align: center;\n  background-size: cover;\n  height: 100vh;  /*692*/\n\n}\n.jumbotron h1\n{\n\tfont-size: 70px;\n  font-weight: 575;\n  font-family:Algerian;\n  margin: 1;\n  color: #fff;\n  opacity: 1;\n}\n.jumbotron h2\n{\n\tfont-size: 50px;\n  font-weight: 400;\n  margin: 1;\n  color: #fff;\n  opacity: 1;\n}\n.Introducere {\n\tpadding:30px;\n\tfont-size: 1.1em;\n\tline-height: 31px;\n\ttext-align: justify;\n\ttext-indent: 2em;\n}\n.Introducere2 {\n\t\n\tfont-size: 17px;\n\tline-height: 32px;\n\ttext-align: justify;\n\ttext-indent: 2em;\n}\n.linkpoze {\n    display: inline-block;\n    border: 2px solid #808000;\n    border-radius: 5px;\n    padding: 5px;\n    transition: 0.3s;\n}\n.linkpoze2 {\n    display: inline-block;\n    border: 2px solid #29292c;\n    border-radius: 5px;\n    padding: 5px;\n    transition: 0.3s;\n}\n.linkpoze a:hover{\n\tbox-shadow: 0 0 2px 1px (0, 140, 186, 0.5);\n}\n.linkpoze2 a:hover{\n    box-shadow: 0 0 2px 1px (0, 140, 186, 0.5);\n}\nh1{\n\tpadding-bottom: 30px;\n}\n.row{\n\tpadding-bottom: 25px;\n}\n#h2{\n    padding-left: 75px;\n    padding-bottom: 20px;\n}\np{\n  \tfont-size: 1vw; \n  \tline-height: 30px;\n    font-family: Times;\n   \n }\n.p_row\n{\n  font-size: 18px; \n  text-indent: 2em; \n  \n}\n#row_main{\n\tpadding-bottom: 60px;\n\n}\nhr{\n\tcolor:#29292c;\n}\n\nfooter {\n    background-color: #2d2d30;\n    color: #f5f5f5;\n    padding: 32px;\n}\n\nfooter a {\n    color: #f5f5f5;\n }\n\nfooter a:hover {      \n\tcolor: #777;\n    text-decoration: none;\n} \n\n\n\n\n\n\n.image img {\n    transition: all .2s ease-in-out; \n}\n\n.image:hover img {\n    transform: scale(1.05);\n}\n.image2 img {\n    transition: all .3s ease-in-out; \n}\n\n.image2:hover img {\n    transform: scale(1.15);\n}\n\n#menu {\n    max-width: 1500px;\n    text-align: center;\n    margin: auto;\n}\n\n#picborder_right {\n\tborder-top: 3px solid #29292c; \n\tborder-bottom: 3px solid #29292c; \n\tborder-left: 3px solid #29292c;\n}\n\n#picborder_left {\n\tborder-top: 3px solid #29292c; \n\tborder-bottom: 3px solid #29292c; \n\tborder-right: 3px solid #29292c;\n}\n\n.answers li {\nlist-style: upper-alpha;\n}\n\nlabel {\nmargin-left: 0.5em;\ncursor: pointer;\n}\n\n#results {\nbackground: #dddada;\ncolor: 000000;\npadding: 3px;\ntext-align: center;\nwidth: 200px;\ncursor: pointer;\nborder: 1px solid gray;\n}\n\n#results:hover {\nbackground: #29292c;\ncolor: #ffffff;\npadding: 3px;\ntext-align: center;\nwidth: 200px;\ncursor: pointer;\nborder: 1px solid gray;\n}\n\n#categorylist {\nmargin-top: 6px;\ndisplay: none;\n}\n\n#category1, #category2, #category3, #category4, #category5, #category6, #category7, #category8, #category9, #category10, #category11, #category12, #category13, #category14, #category15, #category16, #category17{\ndisplay: none;\n}\n\n#closing {\ndisplay: none;\nfont-style: italic;\n} \n#btn-poza{\n  color:#ffffff;\n  background-color: #29292c; \n  font-size: 20px;\n\n}\n#btn-poza:hover{\nbox-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);\n}\n.button span {\n  cursor: pointer;\n  display: inline-block;\n  position: relative;\n  transition: 0.5s;\n}\n\n.button span:after {\n  content: '»';\n  position: absolute;\n  opacity: 0;\n  top: 0;\n  right: -20px;\n  transition: 0.5s;\n}\n\n.button:hover span {\n  padding-right: 25px;\n}\n\n.button:hover span:after {\n  opacity: 1;\n  right: 0;\n}\n.columna{\n  padding-top: 20px;\n  padding-bottom: 15px;\n}\n",
+			"file": "main.css",
+			"file_size": 4242,
+			"file_write_time": 131318870240000000,
 			"settings":
 			{
-				"buffer_size": 5195,
+				"buffer_size": 3978,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -374,10 +308,19 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Sebi/Dropbox/Apps/updog/dacia"
+		"/C/Users/Sebi/Desktop/dacia"
 	],
 	"file_history":
 	[
+		"/C/Users/Sebi/Desktop/dacia/@tropaeum.html",
+		"/C/Users/Sebi/Desktop/dacia/css/bootstrap.css",
+		"/C/Users/Sebi/Desktop/dacia/main.css",
+		"/C/Users/Sebi/Desktop/dacia/quiz_js.js",
+		"/C/Users/Sebi/Desktop/dacia/@quiz.html",
+		"/C/Users/Sebi/Desktop/dacia/@columna.html",
+		"/C/Users/Sebi/Desktop/dacia/@Bibliografie.html",
+		"/C/Users/Sebi/Desktop/dacia/@Traian.html",
+		"/C/Users/Sebi/Desktop/dacia/@dacia.html",
 		"/E/Dacia project/Dacia/@Bibliografie.html",
 		"/E/Dacia project/Dacia/@Traian.html",
 		"/E/Dacia project/Dacia/@Dominitian.html",
@@ -404,7 +347,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -450,24 +393,24 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "@dacia.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10700,
+						"buffer_size": 10757,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2988,
+								2988
 							]
 						],
 						"settings":
@@ -476,187 +419,14 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2797.0,
+						"translation.y": 1033.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "@Traian.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15465,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "@Bibliografie.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4048,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "@provincie.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 21810,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "@columna.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9133,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "@quiz.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15137,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "quiz_js.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4721,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								4721
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
 					"file": "main.css",
 					"semi_transient": false,
 					"settings":
@@ -668,8 +438,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								1406,
+								1406
 							]
 						],
 						"settings":
@@ -679,69 +449,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1795.0,
+						"translation.y": 977.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "css/bootstrap.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 146010,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19346,
-								19357
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 16284.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "@tropaeum.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5195,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -749,7 +460,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 25.0
 	},
 	"input":
 	{
@@ -786,7 +497,7 @@
 	"project": "@Dacia.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
