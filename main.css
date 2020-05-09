@@ -261,3 +261,50 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
   padding-top: 20px;
   padding-bottom: 15px;
 }
+
+table.Table {
+  border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.Table td, table.Table th {
+  border: 1px solid #AAAAAA;
+  padding: 3px 3px;
+}
+table.Table tbody td {
+  font-size: 21px;
+  color: #000000;
+}
+table.Table thead {
+  background: #29292C;
+  background: -moz-linear-gradient(top, #5e5e61 0%, #3e3e41 66%, #29292C 100%);
+  background: -webkit-linear-gradient(top, #5e5e61 0%, #3e3e41 66%, #29292C 100%);
+  background: linear-gradient(to bottom, #5e5e61 0%, #3e3e41 66%, #29292C 100%);
+  border-bottom: 2px solid #444444;
+}
+table.Table thead th {
+  font-size: 30px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #000000;
+}
+table.Table thead th:first-child {
+  border-left: none;
+}
+
+table.Table tfoot td {
+  font-size: 14px;
+}
+table.Table tfoot .links {
+  text-align: right;
+}
+table.Table tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
