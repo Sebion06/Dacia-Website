@@ -40,7 +40,7 @@
 
 .jumbotron 
 {
-	background-image: url('../sarmisegetusa_1.jpg');
+	background-image: url('sarmisegetusa_1.jpg');
 	display: flex;
   align-items: center;
   text-align: center;
